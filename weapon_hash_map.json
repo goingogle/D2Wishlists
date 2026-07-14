@@ -5523,6 +5523,87 @@
         "type": "榴弹发射器",
         "itemType": 0
       }
+    ],
+    "隐晦沙漏": [
+      {
+        "hash": 1714871740,
+        "itemHash": 1714871740,
+        "tier": "None",
+        "type": "弓箭",
+        "itemType": 20
+      }
+    ],
+    "沉没": [
+      {
+        "hash": 3524386983,
+        "itemHash": 3524386983,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      }
+    ],
+    "好建议": [
+      {
+        "hash": 3615748501,
+        "itemHash": 3615748501,
+        "tier": "None",
+        "type": "弓箭",
+        "itemType": 3
+      }
+    ],
+    "无礼言论": [
+      {
+        "hash": 3146657389,
+        "itemHash": 3146657389,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 3
+      }
+    ],
+    "翻新A499": [
+      {
+        "hash": 3661051060,
+        "itemHash": 3661051060,
+        "tier": "None",
+        "type": "狙击枪",
+        "itemType": 3
+      }
+    ],
+    "Ψ永恒IV": [
+      {
+        "hash": 3556730800,
+        "itemHash": 3556730800,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      }
+    ],
+    "韦兰迪夫-D": [
+      {
+        "hash": 2996014947,
+        "itemHash": 2996014947,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      }
+    ],
+    "完美逆行": [
+      {
+        "hash": 2919981289,
+        "itemHash": 2919981289,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      }
+    ],
+    "M-17\"快嘴\"": [
+      {
+        "hash": 1419158093,
+        "itemHash": 1419158093,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      }
     ]
   },
   "match_count": 137,
