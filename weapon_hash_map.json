@@ -1,0 +1,5582 @@
+{
+  "matched_weapons": {
+    "极高反射": [
+      {
+        "hash": 1937185139,
+        "itemHash": 1937185139,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2435125245,
+        "itemHash": 2435125245,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1197486957,
+        "itemHash": 1197486957,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2662459958,
+        "itemHash": 2662459958,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2446285748,
+        "itemHash": 2446285748,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "刺骨寒风": [
+      {
+        "hash": 594789807,
+        "itemHash": 594789807,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 20
+      },
+      {
+        "hash": 1548807502,
+        "itemHash": 1548807502,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1621657423,
+        "itemHash": 1621657423,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 2485400469,
+        "itemHash": 2485400469,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 1622554321,
+        "itemHash": 1622554321,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 0
+      }
+    ],
+    "热能侵蚀": [
+      {
+        "hash": 506351160,
+        "itemHash": 506351160,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2213456467,
+        "itemHash": 2213456467,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1766088024,
+        "itemHash": 1766088024,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 642545454,
+        "itemHash": 642545454,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2998049116,
+        "itemHash": 2998049116,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      }
+    ],
+    "谜团": [
+      {
+        "hash": 1485241459,
+        "itemHash": 1485241459,
+        "tier": "None",
+        "type": "",
+        "itemType": 20
+      },
+      {
+        "hash": 1736882397,
+        "itemHash": 1736882397,
+        "tier": "None",
+        "type": "动作",
+        "itemType": 19
+      },
+      {
+        "hash": 1663078643,
+        "itemHash": 1663078643,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2595497736,
+        "itemHash": 2595497736,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 3448423264,
+        "itemHash": 3448423264,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 30
+      }
+    ],
+    "毫不迟疑": [
+      {
+        "hash": 1432022705,
+        "itemHash": 1432022705,
+        "tier": "None",
+        "type": "",
+        "itemType": 20
+      },
+      {
+        "hash": 3470589037,
+        "itemHash": 3470589037,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1801007332,
+        "itemHash": 1801007332,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3181377148,
+        "itemHash": 3181377148,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 30
+      },
+      {
+        "hash": 1757424586,
+        "itemHash": 1757424586,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 0
+      }
+    ],
+    "宣召呼唤": [
+      {
+        "hash": 3563429202,
+        "itemHash": 3563429202,
+        "tier": "None",
+        "type": "",
+        "itemType": 20
+      },
+      {
+        "hash": 736474114,
+        "itemHash": 736474114,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3947966653,
+        "itemHash": 3947966653,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1356804119,
+        "itemHash": 1356804119,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 30
+      },
+      {
+        "hash": 3254804681,
+        "itemHash": 3254804681,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "专业记忆": [
+      {
+        "hash": 2436975386,
+        "itemHash": 2436975386,
+        "tier": "None",
+        "type": "",
+        "itemType": 20
+      },
+      {
+        "hash": 2179756330,
+        "itemHash": 2179756330,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3605603507,
+        "itemHash": 3605603507,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3158567669,
+        "itemHash": 3158567669,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 30
+      },
+      {
+        "hash": 4061367591,
+        "itemHash": 4061367591,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      }
+    ],
+    "虚假偶像": [
+      {
+        "hash": 39903040,
+        "itemHash": 39903040,
+        "tier": "None",
+        "type": "",
+        "itemType": 20
+      },
+      {
+        "hash": 4100144246,
+        "itemHash": 4100144246,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 20
+      },
+      {
+        "hash": 1392831560,
+        "itemHash": 1392831560,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 4207120603,
+        "itemHash": 4207120603,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 132021549,
+        "itemHash": 132021549,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 30
+      },
+      {
+        "hash": 1221110111,
+        "itemHash": 1221110111,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      }
+    ],
+    "隐秘观测": [
+      {
+        "hash": 1427926040,
+        "itemHash": 1427926040,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      },
+      {
+        "hash": 1079872540,
+        "itemHash": 1079872540,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      }
+    ],
+    "和风": [
+      {
+        "hash": 2365263969,
+        "itemHash": 2365263969,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 20
+      },
+      {
+        "hash": 2873681799,
+        "itemHash": 2873681799,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3400256755,
+        "itemHash": 3400256755,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 4203034886,
+        "itemHash": 4203034886,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 396910433,
+        "itemHash": 396910433,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 1911078836,
+        "itemHash": 1911078836,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 601948197,
+        "itemHash": 601948197,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 147902881,
+        "itemHash": 147902881,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      },
+      {
+        "hash": 3003492238,
+        "itemHash": 3003492238,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 1621433020,
+        "itemHash": 1621433020,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      }
+    ],
+    "疾风跃升": [
+      {
+        "hash": 3898373019,
+        "itemHash": 3898373019,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 506042498,
+        "itemHash": 506042498,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1213512144,
+        "itemHash": 1213512144,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3483485727,
+        "itemHash": 3483485727,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2281501155,
+        "itemHash": 2281501155,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 766122634,
+        "itemHash": 766122634,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3505282728,
+        "itemHash": 3505282728,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 270610849,
+        "itemHash": 270610849,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4024179293,
+        "itemHash": 4024179293,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 0
+      }
+    ],
+    "雷电": [
+      {
+        "hash": 1937181057,
+        "itemHash": 1937181057,
+        "tier": "None",
+        "type": "专注本影记忆水晶",
+        "itemType": 0
+      },
+      {
+        "hash": 1067535032,
+        "itemHash": 1067535032,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1980042536,
+        "itemHash": 1980042536,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1095307966,
+        "itemHash": 1095307966,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2029899814,
+        "itemHash": 2029899814,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1836235748,
+        "itemHash": 1836235748,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 2386208942,
+        "itemHash": 2386208942,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 722967004,
+        "itemHash": 722967004,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 981450701,
+        "itemHash": 981450701,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3396133977,
+        "itemHash": 3396133977,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 0
+      }
+    ],
+    "力拔头筹": [
+      {
+        "hash": 2109271512,
+        "itemHash": 2109271512,
+        "tier": "None",
+        "type": "专注本影记忆水晶",
+        "itemType": 0
+      },
+      {
+        "hash": 695547243,
+        "itemHash": 695547243,
+        "tier": "None",
+        "type": "专注本影记忆水晶",
+        "itemType": 0
+      },
+      {
+        "hash": 2865556497,
+        "itemHash": 2865556497,
+        "tier": "None",
+        "type": "专注本影记忆水晶",
+        "itemType": 0
+      },
+      {
+        "hash": 2364274249,
+        "itemHash": 2364274249,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 294129361,
+        "itemHash": 294129361,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3559361670,
+        "itemHash": 3559361670,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 655712834,
+        "itemHash": 655712834,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 55393445,
+        "itemHash": 55393445,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2262043425,
+        "itemHash": 2262043425,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      },
+      {
+        "hash": 4106258882,
+        "itemHash": 4106258882,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1891392912,
+        "itemHash": 1891392912,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      }
+    ],
+    "信标": [
+      {
+        "hash": 1808697851,
+        "itemHash": 1808697851,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 650857753,
+        "itemHash": 650857753,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3811494885,
+        "itemHash": 3811494885,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2161618499,
+        "itemHash": 2161618499,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3689280567,
+        "itemHash": 3689280567,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 76739872,
+        "itemHash": 76739872,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1460042662,
+        "itemHash": 1460042662,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      }
+    ],
+    "苍鹭": [
+      {
+        "hash": 3622337803,
+        "itemHash": 3622337803,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 20
+      },
+      {
+        "hash": 3437391095,
+        "itemHash": 3437391095,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 20
+      },
+      {
+        "hash": 3838777579,
+        "itemHash": 3838777579,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 20
+      },
+      {
+        "hash": 3701326503,
+        "itemHash": 3701326503,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 20
+      },
+      {
+        "hash": 3105676123,
+        "itemHash": 3105676123,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 20
+      },
+      {
+        "hash": 2246386812,
+        "itemHash": 2246386812,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 365656018,
+        "itemHash": 365656018,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      },
+      {
+        "hash": 617566159,
+        "itemHash": 617566159,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 1203458963,
+        "itemHash": 1203458963,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      },
+      {
+        "hash": 617566158,
+        "itemHash": 617566158,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 3772603516,
+        "itemHash": 3772603516,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      },
+      {
+        "hash": 617566157,
+        "itemHash": 617566157,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 1902908505,
+        "itemHash": 1902908505,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      },
+      {
+        "hash": 617566156,
+        "itemHash": 617566156,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 177188642,
+        "itemHash": 177188642,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      }
+    ],
+    "艾莎之拥": [
+      {
+        "hash": 892093767,
+        "itemHash": 892093767,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2638190703,
+        "itemHash": 2638190703,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3532173875,
+        "itemHash": 3532173875,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3709368142,
+        "itemHash": 3709368142,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2179624700,
+        "itemHash": 2179624700,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 0
+      }
+    ],
+    "熊啸": [
+      {
+        "hash": 474891181,
+        "itemHash": 474891181,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 2400967342,
+        "itemHash": 2400967342,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 423406212,
+        "itemHash": 423406212,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 4009352833,
+        "itemHash": 4009352833,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2231910050,
+        "itemHash": 2231910050,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3675599216,
+        "itemHash": 3675599216,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 308332265,
+        "itemHash": 308332265,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2881109029,
+        "itemHash": 2881109029,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2724816289,
+        "itemHash": 2724816289,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      }
+    ],
+    "激流": [
+      {
+        "hash": 3171702494,
+        "itemHash": 3171702494,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2801311442,
+        "itemHash": 2801311442,
+        "tier": "None",
+        "type": "武器皮肤",
+        "itemType": 19
+      },
+      {
+        "hash": 4012642691,
+        "itemHash": 4012642691,
+        "tier": "None",
+        "type": "武器皮肤",
+        "itemType": 19
+      },
+      {
+        "hash": 2715240478,
+        "itemHash": 2715240478,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3960749708,
+        "itemHash": 3960749708,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 2297554989,
+        "itemHash": 2297554989,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1593314745,
+        "itemHash": 1593314745,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 1323862250,
+        "itemHash": 1323862250,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3762555400,
+        "itemHash": 3762555400,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      }
+    ],
+    "越界": [
+      {
+        "hash": 4003140277,
+        "itemHash": 4003140277,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 20
+      },
+      {
+        "hash": 4079371712,
+        "itemHash": 4079371712,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      },
+      {
+        "hash": 1974041615,
+        "itemHash": 1974041615,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2988121501,
+        "itemHash": 2988121501,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2154456873,
+        "itemHash": 2154456873,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      },
+      {
+        "hash": 2579239008,
+        "itemHash": 2579239008,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1134559590,
+        "itemHash": 1134559590,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3021407779,
+        "itemHash": 3021407779,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2647005975,
+        "itemHash": 2647005975,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      }
+    ],
+    "隐士": [
+      {
+        "hash": 3160299786,
+        "itemHash": 3160299786,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3582238978,
+        "itemHash": 3582238978,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 631405394,
+        "itemHash": 631405394,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3354242550,
+        "itemHash": 3354242550,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3347946548,
+        "itemHash": 3347946548,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1009080684,
+        "itemHash": 1009080684,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 30
+      },
+      {
+        "hash": 1050806815,
+        "itemHash": 1050806815,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3098328572,
+        "itemHash": 3098328572,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3257283337,
+        "itemHash": 3257283337,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3398944533,
+        "itemHash": 3398944533,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      }
+    ],
+    "边缘交通": [
+      {
+        "hash": 3160299779,
+        "itemHash": 3160299779,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 1514927450,
+        "itemHash": 1514927450,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 218335759,
+        "itemHash": 218335759,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 568611923,
+        "itemHash": 568611923,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2228325504,
+        "itemHash": 2228325504,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3736001863,
+        "itemHash": 3736001863,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3055219835,
+        "itemHash": 3055219835,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ],
+    "爱与死亡": [
+      {
+        "hash": 1341880512,
+        "itemHash": 1341880512,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 2035946084,
+        "itemHash": 2035946084,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3690523502,
+        "itemHash": 3690523502,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3482299617,
+        "itemHash": 3482299617,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 15253277,
+        "itemHash": 15253277,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ],
+    "一小步": [
+      {
+        "hash": 597679579,
+        "itemHash": 597679579,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3286673571,
+        "itemHash": 3286673571,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1016668089,
+        "itemHash": 1016668089,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2527058296,
+        "itemHash": 2527058296,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1532982542,
+        "itemHash": 1532982542,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 0
+      }
+    ],
+    "后代": [
+      {
+        "hash": 481721032,
+        "itemHash": 481721032,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 20
+      },
+      {
+        "hash": 1935817155,
+        "itemHash": 1935817155,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 20
+      },
+      {
+        "hash": 1104188857,
+        "itemHash": 1104188857,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3281285075,
+        "itemHash": 3281285075,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 3
+      },
+      {
+        "hash": 3800406805,
+        "itemHash": 3800406805,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 30
+      }
+    ],
+    "受托": [
+      {
+        "hash": 2313489324,
+        "itemHash": 2313489324,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 824052295,
+        "itemHash": 824052295,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3730191905,
+        "itemHash": 3730191905,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1392919471,
+        "itemHash": 1392919471,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1363479969,
+        "itemHash": 1363479969,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 30
+      }
+    ],
+    "遗赠": [
+      {
+        "hash": 167561626,
+        "itemHash": 167561626,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 20
+      },
+      {
+        "hash": 2814756793,
+        "itemHash": 2814756793,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 20
+      },
+      {
+        "hash": 2793555139,
+        "itemHash": 2793555139,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3366545721,
+        "itemHash": 3366545721,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 1697198067,
+        "itemHash": 1697198067,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 30
+      }
+    ],
+    "遗产": [
+      {
+        "hash": 1230392361,
+        "itemHash": 1230392361,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3790866486,
+        "itemHash": 3790866486,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3751044184,
+        "itemHash": 3751044184,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 4248569242,
+        "itemHash": 4248569242,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3240588666,
+        "itemHash": 3240588666,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 30
+      }
+    ],
+    "裁决定论": [
+      {
+        "hash": 3768901236,
+        "itemHash": 3768901236,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2151181823,
+        "itemHash": 2151181823,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1914717834,
+        "itemHash": 1914717834,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3197270240,
+        "itemHash": 3197270240,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 694500607,
+        "itemHash": 694500607,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3891407057,
+        "itemHash": 3891407057,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 30
+      }
+    ],
+    "普莱蒂斯的复仇": [
+      {
+        "hash": 2056591688,
+        "itemHash": 2056591688,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2124942403,
+        "itemHash": 2124942403,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 4188797954,
+        "itemHash": 4188797954,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3653573172,
+        "itemHash": 3653573172,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3844610113,
+        "itemHash": 3844610113,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4237475179,
+        "itemHash": 4237475179,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 30
+      }
+    ],
+    "惩戒措施": [
+      {
+        "hash": 736064515,
+        "itemHash": 736064515,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1648410940,
+        "itemHash": 1648410940,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1861729153,
+        "itemHash": 1861729153,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 471518543,
+        "itemHash": 471518543,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3654744298,
+        "itemHash": 3654744298,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2024456042,
+        "itemHash": 2024456042,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 30
+      }
+    ],
+    "光芒复仇": [
+      {
+        "hash": 2806900547,
+        "itemHash": 2806900547,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 1933192444,
+        "itemHash": 1933192444,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 1162270757,
+        "itemHash": 1162270757,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 4050645223,
+        "itemHash": 4050645223,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2265407516,
+        "itemHash": 2265407516,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3415398820,
+        "itemHash": 3415398820,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 30
+      }
+    ],
+    "回溯路径": [
+      {
+        "hash": 3890429605,
+        "itemHash": 3890429605,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 548958835,
+        "itemHash": 548958835,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 958118965,
+        "itemHash": 958118965,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 30
+      }
+    ],
+    "鲁布瑞之厄": [
+      {
+        "hash": 742858186,
+        "itemHash": 742858186,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 20
+      },
+      {
+        "hash": 1964768777,
+        "itemHash": 1964768777,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 20
+      },
+      {
+        "hash": 2712882992,
+        "itemHash": 2712882992,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2534546147,
+        "itemHash": 2534546147,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 1965716037,
+        "itemHash": 1965716037,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 30
+      }
+    ],
+    "灾变": [
+      {
+        "hash": 2286674829,
+        "itemHash": 2286674829,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2636190042,
+        "itemHash": 2636190042,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2520809971,
+        "itemHash": 2520809971,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 999767358,
+        "itemHash": 999767358,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 517759838,
+        "itemHash": 517759838,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 30
+      }
+    ],
+    "驯顺": [
+      {
+        "hash": 3692272097,
+        "itemHash": 3692272097,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1763558430,
+        "itemHash": 1763558430,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2282001191,
+        "itemHash": 2282001191,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3886416794,
+        "itemHash": 3886416794,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 73105274,
+        "itemHash": 73105274,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 30
+      }
+    ],
+    "奈扎雷克的耳语": [
+      {
+        "hash": 955425434,
+        "itemHash": 955425434,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 254636484,
+        "itemHash": 254636484,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 1782799708,
+        "itemHash": 1782799708,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 30
+      }
+    ],
+    "库里姆的终界": [
+      {
+        "hash": 3813209529,
+        "itemHash": 3813209529,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1058857259,
+        "itemHash": 1058857259,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3004542196,
+        "itemHash": 3004542196,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1321506184,
+        "itemHash": 1321506184,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4057799392,
+        "itemHash": 4057799392,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 30
+      }
+    ],
+    "切尔奇斯的末日": [
+      {
+        "hash": 2705753779,
+        "itemHash": 2705753779,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3013315457,
+        "itemHash": 3013315457,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3182115262,
+        "itemHash": 3182115262,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1937552980,
+        "itemHash": 1937552980,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 479338636,
+        "itemHash": 479338636,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 30
+      }
+    ],
+    "低阻之道": [
+      {
+        "hash": 571668922,
+        "itemHash": 571668922,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2827764482,
+        "itemHash": 2827764482,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4186079026,
+        "itemHash": 4186079026,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 30
+      }
+    ],
+    "IKELOS_SG_v1.0.3": [
+      {
+        "hash": 2126441377,
+        "itemHash": 2126441377,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1168625549,
+        "itemHash": 1168625549,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1285580487,
+        "itemHash": 1285580487,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 30
+      }
+    ],
+    "科拉西斯的苦恼": [
+      {
+        "hash": 86822281,
+        "itemHash": 86822281,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 351138256,
+        "itemHash": 351138256,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 2031794619,
+        "itemHash": 2031794619,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 2972949637,
+        "itemHash": 2972949637,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2350475759,
+        "itemHash": 2350475759,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 30
+      }
+    ],
+    "蔷薇的蔑视": [
+      {
+        "hash": 2377806953,
+        "itemHash": 2377806953,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3559617806,
+        "itemHash": 3559617806,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 4041628413,
+        "itemHash": 4041628413,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1491665733,
+        "itemHash": 1491665733,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2776812591,
+        "itemHash": 2776812591,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 30
+      }
+    ],
+    "阿卡西娅的沮丧": [
+      {
+        "hash": 382464970,
+        "itemHash": 382464970,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3313060341,
+        "itemHash": 3313060341,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 184990290,
+        "itemHash": 184990290,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1471212226,
+        "itemHash": 1471212226,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1175771762,
+        "itemHash": 1175771762,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 30
+      }
+    ],
+    "巅峰捕食者": [
+      {
+        "hash": 1517505803,
+        "itemHash": 1517505803,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 4217170772,
+        "itemHash": 4217170772,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 1233603613,
+        "itemHash": 1233603613,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2545083870,
+        "itemHash": 2545083870,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 1851777734,
+        "itemHash": 1851777734,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 1308286454,
+        "itemHash": 1308286454,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 30
+      },
+      {
+        "hash": 215338191,
+        "itemHash": 215338191,
+        "tier": "None",
+        "type": "徽标",
+        "itemType": 14
+      }
+    ],
+    "热血上头": [
+      {
+        "hash": 2565067140,
+        "itemHash": 2565067140,
+        "tier": "None",
+        "type": "原始特性",
+        "itemType": 19
+      },
+      {
+        "hash": 2085665100,
+        "itemHash": 2085665100,
+        "tier": "None",
+        "type": "强化原始特性",
+        "itemType": 19
+      },
+      {
+        "hash": 2903203709,
+        "itemHash": 2903203709,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 1876019101,
+        "itemHash": 1876019101,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 4255171531,
+        "itemHash": 4255171531,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3453261711,
+        "itemHash": 3453261711,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 1692372662,
+        "itemHash": 1692372662,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 1446251828,
+        "itemHash": 1446251828,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 3960301269,
+        "itemHash": 3960301269,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 1012843409,
+        "itemHash": 1012843409,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      }
+    ],
+    "克洛塔之语": [
+      {
+        "hash": 2463826185,
+        "itemHash": 2463826185,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3256378992,
+        "itemHash": 3256378992,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 20
+      },
+      {
+        "hash": 3554298459,
+        "itemHash": 3554298459,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 20
+      },
+      {
+        "hash": 120706239,
+        "itemHash": 120706239,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 3
+      },
+      {
+        "hash": 2763195153,
+        "itemHash": 2763195153,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 30
+      },
+      {
+        "hash": 747431043,
+        "itemHash": 747431043,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 0
+      }
+    ],
+    "伊尔·约特之歌": [
+      {
+        "hash": 991621099,
+        "itemHash": 991621099,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3396589080,
+        "itemHash": 3396589080,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2831249843,
+        "itemHash": 2831249843,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2828278545,
+        "itemHash": 2828278545,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1122822939,
+        "itemHash": 1122822939,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 30
+      },
+      {
+        "hash": 3992937549,
+        "itemHash": 3992937549,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      }
+    ],
+    "散射信号": [
+      {
+        "hash": 1138458181,
+        "itemHash": 1138458181,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2558925366,
+        "itemHash": 2558925366,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3043056966,
+        "itemHash": 3043056966,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 30
+      }
+    ],
+    "终焉未至": [
+      {
+        "hash": 4233323013,
+        "itemHash": 4233323013,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 20
+      },
+      {
+        "hash": 3622947138,
+        "itemHash": 3622947138,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 20
+      },
+      {
+        "hash": 3668937616,
+        "itemHash": 3668937616,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1770490683,
+        "itemHash": 1770490683,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 1832224525,
+        "itemHash": 1832224525,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 30
+      },
+      {
+        "hash": 904209471,
+        "itemHash": 904209471,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 0
+      }
+    ],
+    "偏异将临": [
+      {
+        "hash": 354732155,
+        "itemHash": 354732155,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 20
+      },
+      {
+        "hash": 3110400804,
+        "itemHash": 3110400804,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 20
+      },
+      {
+        "hash": 893849384,
+        "itemHash": 893849384,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 535198113,
+        "itemHash": 535198113,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 3207113547,
+        "itemHash": 3207113547,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 30
+      },
+      {
+        "hash": 805319261,
+        "itemHash": 805319261,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      }
+    ],
+    "作废": [
+      {
+        "hash": 4214783289,
+        "itemHash": 4214783289,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3745317094,
+        "itemHash": 3745317094,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3898064952,
+        "itemHash": 3898064952,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 859869931,
+        "itemHash": 859869931,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4256748573,
+        "itemHash": 4256748573,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 30
+      },
+      {
+        "hash": 3617288367,
+        "itemHash": 3617288367,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      }
+    ],
+    "迷失信号": [
+      {
+        "hash": 1671955671,
+        "itemHash": 1671955671,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1197771438,
+        "itemHash": 1197771438,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3013473326,
+        "itemHash": 3013473326,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 30
+      }
+    ],
+    "反常行动": [
+      {
+        "hash": 3570970887,
+        "itemHash": 3570970887,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2198166292,
+        "itemHash": 2198166292,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1445084364,
+        "itemHash": 1445084364,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 30
+      }
+    ],
+    "时间食者": [
+      {
+        "hash": 166856388,
+        "itemHash": 166856388,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1886840007,
+        "itemHash": 1886840007,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2863166953,
+        "itemHash": 2863166953,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 30
+      }
+    ],
+    "鲁莽神谕": [
+      {
+        "hash": 1606168972,
+        "itemHash": 1606168972,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1869038788,
+        "itemHash": 1869038788,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2732521327,
+        "itemHash": 2732521327,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1883809090,
+        "itemHash": 1883809090,
+        "tier": "None",
+        "type": "武器皮肤",
+        "itemType": 19
+      },
+      {
+        "hash": 3385326721,
+        "itemHash": 3385326721,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1992309064,
+        "itemHash": 1992309064,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2856514080,
+        "itemHash": 2856514080,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 30
+      },
+      {
+        "hash": 4158265643,
+        "itemHash": 4158265643,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1727249519,
+        "itemHash": 1727249519,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 1802315656,
+        "itemHash": 1802315656,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 605664542,
+        "itemHash": 605664542,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 0
+      }
+    ],
+    "累积救赎": [
+      {
+        "hash": 1010802546,
+        "itemHash": 1010802546,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1795853698,
+        "itemHash": 1795853698,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 20
+      },
+      {
+        "hash": 24639057,
+        "itemHash": 24639057,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 20
+      },
+      {
+        "hash": 4095896073,
+        "itemHash": 4095896073,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 3621336854,
+        "itemHash": 3621336854,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 2079565734,
+        "itemHash": 2079565734,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 30
+      }
+    ],
+    "全知之眼": [
+      {
+        "hash": 1291368000,
+        "itemHash": 1291368000,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3534967576,
+        "itemHash": 3534967576,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 478238387,
+        "itemHash": 478238387,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1935198785,
+        "itemHash": 1935198785,
+        "tier": "None",
+        "type": "胸部护甲",
+        "itemType": 2
+      },
+      {
+        "hash": 3454326177,
+        "itemHash": 3454326177,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 147444292,
+        "itemHash": 147444292,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1673788124,
+        "itemHash": 1673788124,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 30
+      },
+      {
+        "hash": 4255001288,
+        "itemHash": 4255001288,
+        "tier": "None",
+        "type": "胸部护甲",
+        "itemType": 2
+      },
+      {
+        "hash": 691707870,
+        "itemHash": 691707870,
+        "tier": "None",
+        "type": "胸部护甲",
+        "itemType": 0
+      }
+    ],
+    "迪凯特02": [
+      {
+        "hash": 3138451707,
+        "itemHash": 3138451707,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 1282636622,
+        "itemHash": 1282636622,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1850748385,
+        "itemHash": 1850748385,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 58821149,
+        "itemHash": 58821149,
+        "tier": "None",
+        "type": "自动步枪",
+        "itemType": 0
+      }
+    ],
+    "艾恩伍德03": [
+      {
+        "hash": 3121022780,
+        "itemHash": 3121022780,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 0
+      },
+      {
+        "hash": 3533087407,
+        "itemHash": 3533087407,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2041617874,
+        "itemHash": 2041617874,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 3
+      },
+      {
+        "hash": 135831648,
+        "itemHash": 135831648,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 0
+      }
+    ],
+    "完美悖论": [
+      {
+        "hash": 2646496046,
+        "itemHash": 2646496046,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3240104663,
+        "itemHash": 3240104663,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2248667690,
+        "itemHash": 2248667690,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3393519051,
+        "itemHash": 3393519051,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1298672084,
+        "itemHash": 1298672084,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4108648762,
+        "itemHash": 4108648762,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3778793624,
+        "itemHash": 3778793624,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 0
+      }
+    ],
+    "日心QSc": [
+      {
+        "hash": 2646496037,
+        "itemHash": 2646496037,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1674973470,
+        "itemHash": 1674973470,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3998080529,
+        "itemHash": 3998080529,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1891927373,
+        "itemHash": 1891927373,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      },
+      {
+        "hash": 1291040555,
+        "itemHash": 1291040555,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 854525551,
+        "itemHash": 854525551,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "黄铜攻击": [
+      {
+        "hash": 2663273630,
+        "itemHash": 2663273630,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3109297883,
+        "itemHash": 3109297883,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2121785039,
+        "itemHash": 2121785039,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1291040554,
+        "itemHash": 1291040554,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2892112072,
+        "itemHash": 2892112072,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "格网队长": [
+      {
+        "hash": 2663273629,
+        "itemHash": 2663273629,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3910122856,
+        "itemHash": 3910122856,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1621558458,
+        "itemHash": 1621558458,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3433930495,
+        "itemHash": 3433930495,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3176697589,
+        "itemHash": 3176697589,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2794696625,
+        "itemHash": 2794696625,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      }
+    ],
+    "多机系统CCX": [
+      {
+        "hash": 2417744919,
+        "itemHash": 2417744919,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      },
+      {
+        "hash": 790671582,
+        "itemHash": 790671582,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3717177717,
+        "itemHash": 3717177717,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4265183314,
+        "itemHash": 4265183314,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3211624072,
+        "itemHash": 3211624072,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 654848542,
+        "itemHash": 654848542,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3026836571,
+        "itemHash": 3026836571,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3360376799,
+        "itemHash": 3360376799,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      }
+    ],
+    "牡鹿之角": [
+      {
+        "hash": 2400967341,
+        "itemHash": 2400967341,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 0
+      },
+      {
+        "hash": 2098431877,
+        "itemHash": 2098431877,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3434944005,
+        "itemHash": 3434944005,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 888872889,
+        "itemHash": 888872889,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 3465233192,
+        "itemHash": 3465233192,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 2354898110,
+        "itemHash": 2354898110,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 0
+      },
+      {
+        "hash": 911019136,
+        "itemHash": 911019136,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 2277616134,
+        "itemHash": 2277616134,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 0
+      }
+    ],
+    "舵手": [
+      {
+        "hash": 4079371718,
+        "itemHash": 4079371718,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3498622935,
+        "itemHash": 3498622935,
+        "tier": "None",
+        "type": "武器皮肤",
+        "itemType": 19
+      },
+      {
+        "hash": 2325078119,
+        "itemHash": 2325078119,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3894020251,
+        "itemHash": 3894020251,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3215649176,
+        "itemHash": 3215649176,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 457346478,
+        "itemHash": 457346478,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 0
+      }
+    ],
+    "乔科斯的长剑": [
+      {
+        "hash": 4079371717,
+        "itemHash": 4079371717,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 755788613,
+        "itemHash": 755788613,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 157601190,
+        "itemHash": 157601190,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2145353828,
+        "itemHash": 2145353828,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 2150012406,
+        "itemHash": 2150012406,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2174072564,
+        "itemHash": 2174072564,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3538003989,
+        "itemHash": 3538003989,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3853310033,
+        "itemHash": 3853310033,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      }
+    ],
+    "束缚化身IV": [
+      {
+        "hash": 4062594134,
+        "itemHash": 4062594134,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      },
+      {
+        "hash": 337893613,
+        "itemHash": 337893613,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1584439289,
+        "itemHash": 1584439289,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      },
+      {
+        "hash": 4176551594,
+        "itemHash": 4176551594,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1006498632,
+        "itemHash": 1006498632,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      }
+    ],
+    "核心星辰IV": [
+      {
+        "hash": 2996014946,
+        "itemHash": 2996014946,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 3827606118,
+        "itemHash": 3827606118,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 391069235,
+        "itemHash": 391069235,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 483493287,
+        "itemHash": 483493287,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 2846261712,
+        "itemHash": 2846261712,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 88026198,
+        "itemHash": 88026198,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      }
+    ],
+    "渐速音-42": [
+      {
+        "hash": 2996014948,
+        "itemHash": 2996014948,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 53747652,
+        "itemHash": 53747652,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3610531207,
+        "itemHash": 3610531207,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3788159035,
+        "itemHash": 3788159035,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 1540621132,
+        "itemHash": 1540621132,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3077752226,
+        "itemHash": 3077752226,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      }
+    ],
+    "三色矛头蝮-4bl": [
+      {
+        "hash": 2996014951,
+        "itemHash": 2996014951,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      },
+      {
+        "hash": 3854098690,
+        "itemHash": 3854098690,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 393652859,
+        "itemHash": 393652859,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 1900926463,
+        "itemHash": 1900926463,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      },
+      {
+        "hash": 2775462168,
+        "itemHash": 2775462168,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 863436846,
+        "itemHash": 863436846,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      }
+    ],
+    "紧急求生包": [
+      {
+        "hash": 1214297918,
+        "itemHash": 1214297918,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3456495765,
+        "itemHash": 3456495765,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2744715540,
+        "itemHash": 2744715540,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2832639510,
+        "itemHash": 2832639510,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3327901954,
+        "itemHash": 3327901954,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 72882000,
+        "itemHash": 72882000,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      }
+    ],
+    "指挥链": [
+      {
+        "hash": 2880503083,
+        "itemHash": 2880503083,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3141230221,
+        "itemHash": 3141230221,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3105930175,
+        "itemHash": 3105930175,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1716620044,
+        "itemHash": 1716620044,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2258895330,
+        "itemHash": 2258895330,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      }
+    ],
+    "溪谷-X": [
+      {
+        "hash": 2880503087,
+        "itemHash": 2880503087,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3932177144,
+        "itemHash": 3932177144,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2276328320,
+        "itemHash": 2276328320,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 438540299,
+        "itemHash": 438540299,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1410383183,
+        "itemHash": 1410383183,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      }
+    ],
+    "黄道卷线杆": [
+      {
+        "hash": 2897280669,
+        "itemHash": 2897280669,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      },
+      {
+        "hash": 1208809704,
+        "itemHash": 1208809704,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3001205424,
+        "itemHash": 3001205424,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 1942143745,
+        "itemHash": 1942143745,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 901224893,
+        "itemHash": 901224893,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      }
+    ],
+    "下班时刻": [
+      {
+        "hash": 69227622,
+        "itemHash": 69227622,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      },
+      {
+        "hash": 1383354110,
+        "itemHash": 1383354110,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 378498222,
+        "itemHash": 378498222,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2029585884,
+        "itemHash": 2029585884,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      },
+      {
+        "hash": 1469372193,
+        "itemHash": 1469372193,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1819678429,
+        "itemHash": 1819678429,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      },
+      {
+        "hash": 1409524486,
+        "itemHash": 1409524486,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2671453252,
+        "itemHash": 2671453252,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "注视焦点": [
+      {
+        "hash": 69227618,
+        "itemHash": 69227618,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 2996219000,
+        "itemHash": 2996219000,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 694275488,
+        "itemHash": 694275488,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 1140943142,
+        "itemHash": 1140943142,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 2827141087,
+        "itemHash": 2827141087,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3272091171,
+        "itemHash": 3272091171,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 2511482352,
+        "itemHash": 2511482352,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2070149366,
+        "itemHash": 2070149366,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      }
+    ],
+    "驱逐引擎": [
+      {
+        "hash": 2919981294,
+        "itemHash": 2919981294,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 3069160269,
+        "itemHash": 3069160269,
+        "tier": "None",
+        "type": "武器皮肤",
+        "itemType": 19
+      },
+      {
+        "hash": 2223968549,
+        "itemHash": 2223968549,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 1471335585,
+        "itemHash": 1471335585,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 3718184802,
+        "itemHash": 3718184802,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 1686549168,
+        "itemHash": 1686549168,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ],
+    "零镇静": [
+      {
+        "hash": 2919981291,
+        "itemHash": 2919981291,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 4162333225,
+        "itemHash": 4162333225,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1644680957,
+        "itemHash": 1644680957,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2150643740,
+        "itemHash": 2150643740,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 182589170,
+        "itemHash": 182589170,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3613444087,
+        "itemHash": 3613444087,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 326418923,
+        "itemHash": 326418923,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      }
+    ],
+    "食莲者": [
+      {
+        "hash": 2919981287,
+        "itemHash": 2919981287,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      },
+      {
+        "hash": 2182334335,
+        "itemHash": 2182334335,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3922217119,
+        "itemHash": 3922217119,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1568976227,
+        "itemHash": 1568976227,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      },
+      {
+        "hash": 924095500,
+        "itemHash": 924095500,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 621978850,
+        "itemHash": 621978850,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      },
+      {
+        "hash": 837298567,
+        "itemHash": 837298567,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2847265851,
+        "itemHash": 2847265851,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "急锋": [
+      {
+        "hash": 2919981286,
+        "itemHash": 2919981286,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      },
+      {
+        "hash": 3709895693,
+        "itemHash": 3709895693,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2889501828,
+        "itemHash": 2889501828,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 593699562,
+        "itemHash": 593699562,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      },
+      {
+        "hash": 2466028274,
+        "itemHash": 2466028274,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 2105209472,
+        "itemHash": 2105209472,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      },
+      {
+        "hash": 189854537,
+        "itemHash": 189854537,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 3624641493,
+        "itemHash": 3624641493,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      }
+    ],
+    "恶意尖牙": [
+      {
+        "hash": 3697257132,
+        "itemHash": 3697257132,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 0
+      },
+      {
+        "hash": 2428522862,
+        "itemHash": 2428522862,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 421573768,
+        "itemHash": 421573768,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 1094998581,
+        "itemHash": 1094998581,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 3343200881,
+        "itemHash": 3343200881,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 0
+      },
+      {
+        "hash": 1704597062,
+        "itemHash": 1704597062,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 3
+      },
+      {
+        "hash": 2221240580,
+        "itemHash": 2221240580,
+        "tier": "None",
+        "type": "战斗弓箭",
+        "itemType": 0
+      }
+    ],
+    "无感": [
+      {
+        "hash": 3697257126,
+        "itemHash": 3697257126,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3493482745,
+        "itemHash": 3493482745,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1931556011,
+        "itemHash": 1931556011,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1271275406,
+        "itemHash": 1271275406,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2230338236,
+        "itemHash": 2230338236,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 2979764077,
+        "itemHash": 2979764077,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1639509881,
+        "itemHash": 1639509881,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 0
+      }
+    ],
+    "轰鸣巨人": [
+      {
+        "hash": 3697257127,
+        "itemHash": 3697257127,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 235809387,
+        "itemHash": 235809387,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2186258845,
+        "itemHash": 2186258845,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 412265080,
+        "itemHash": 412265080,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 4221939726,
+        "itemHash": 4221939726,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 1889005379,
+        "itemHash": 1889005379,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3970694967,
+        "itemHash": 3970694967,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      }
+    ],
+    "超前": [
+      {
+        "hash": 2197494591,
+        "itemHash": 2197494591,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1209406064,
+        "itemHash": 1209406064,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2473036553,
+        "itemHash": 2473036553,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3735875016,
+        "itemHash": 3735875016,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1435808083,
+        "itemHash": 1435808083,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3637209799,
+        "itemHash": 3637209799,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      }
+    ],
+    "转瞬长矛": [
+      {
+        "hash": 3069701338,
+        "itemHash": 3069701338,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2354435045,
+        "itemHash": 2354435045,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 801230488,
+        "itemHash": 801230488,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 2675354897,
+        "itemHash": 2675354897,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 688593230,
+        "itemHash": 688593230,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4114998524,
+        "itemHash": 4114998524,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 0
+      }
+    ],
+    "何时何地": [
+      {
+        "hash": 2046367841,
+        "itemHash": 2046367841,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 1084098030,
+        "itemHash": 1084098030,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 2483248283,
+        "itemHash": 2483248283,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 357496642,
+        "itemHash": 357496642,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 1090936013,
+        "itemHash": 1090936013,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3785614169,
+        "itemHash": 3785614169,
+        "tier": "None",
+        "type": "火箭发射器",
+        "itemType": 0
+      }
+    ],
+    "快速增长": [
+      {
+        "hash": 1023301828,
+        "itemHash": 1023301828,
+        "tier": "None",
+        "type": "武器皮肤",
+        "itemType": 19
+      },
+      {
+        "hash": 3856342856,
+        "itemHash": 3856342856,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2097922398,
+        "itemHash": 2097922398,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3448712083,
+        "itemHash": 3448712083,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4163318151,
+        "itemHash": 4163318151,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 0
+      }
+    ],
+    "忧愁之鸠": [
+      {
+        "hash": 1091091661,
+        "itemHash": 1091091661,
+        "tier": "None",
+        "type": "武器皮肤",
+        "itemType": 19
+      },
+      {
+        "hash": 1496419775,
+        "itemHash": 1496419775,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3779290676,
+        "itemHash": 3779290676,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1579360666,
+        "itemHash": 1579360666,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      },
+      {
+        "hash": 2601084711,
+        "itemHash": 2601084711,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2443939035,
+        "itemHash": 2443939035,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      }
+    ],
+    "威胁等级": [
+      {
+        "hash": 1951288966,
+        "itemHash": 1951288966,
+        "tier": "None",
+        "type": "武器皮肤",
+        "itemType": 19
+      },
+      {
+        "hash": 1951288967,
+        "itemHash": 1951288967,
+        "tier": "None",
+        "type": "武器皮肤",
+        "itemType": 19
+      },
+      {
+        "hash": 1664372054,
+        "itemHash": 1664372054,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1523151869,
+        "itemHash": 1523151869,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3972074121,
+        "itemHash": 3972074121,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 0
+      },
+      {
+        "hash": 950894542,
+        "itemHash": 950894542,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 780495996,
+        "itemHash": 780495996,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 0
+      }
+    ],
+    "不可饶恕": [
+      {
+        "hash": 2005606752,
+        "itemHash": 2005606752,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3000847393,
+        "itemHash": 3000847393,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 234411205,
+        "itemHash": 234411205,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3486972865,
+        "itemHash": 3486972865,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      }
+    ],
+    "滑溜运气": [
+      {
+        "hash": 4179047713,
+        "itemHash": 4179047713,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1757202961,
+        "itemHash": 1757202961,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 2934305134,
+        "itemHash": 2934305134,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 1685406703,
+        "itemHash": 1685406703,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 4274165888,
+        "itemHash": 4274165888,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 991276550,
+        "itemHash": 991276550,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      }
+    ],
+    "无人幸存": [
+      {
+        "hash": 1241842664,
+        "itemHash": 1241842664,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3262192268,
+        "itemHash": 3262192268,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4228149269,
+        "itemHash": 4228149269,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4193602194,
+        "itemHash": 4193602194,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3625452995,
+        "itemHash": 3625452995,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 99489463,
+        "itemHash": 99489463,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      }
+    ],
+    "拒绝召唤": [
+      {
+        "hash": 597862076,
+        "itemHash": 597862076,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3269398063,
+        "itemHash": 3269398063,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 2671849376,
+        "itemHash": 2671849376,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 1541324871,
+        "itemHash": 1541324871,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 3504043387,
+        "itemHash": 3504043387,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      }
+    ],
+    "送魂者": [
+      {
+        "hash": 2342639479,
+        "itemHash": 2342639479,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 4028298892,
+        "itemHash": 4028298892,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3840794631,
+        "itemHash": 3840794631,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 1835232052,
+        "itemHash": 1835232052,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 1292081306,
+        "itemHash": 1292081306,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ],
+    "揭纱露眼": [
+      {
+        "hash": 1733013751,
+        "itemHash": 1733013751,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 727781522,
+        "itemHash": 727781522,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 615373993,
+        "itemHash": 615373993,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4147428506,
+        "itemHash": 4147428506,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 641521528,
+        "itemHash": 641521528,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 0
+      }
+    ],
+    "无视": [
+      {
+        "hash": 4250867016,
+        "itemHash": 4250867016,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2226158470,
+        "itemHash": 2226158470,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1700366811,
+        "itemHash": 1700366811,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 366189663,
+        "itemHash": 366189663,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 0
+      }
+    ],
+    "无声": [
+      {
+        "hash": 1100120249,
+        "itemHash": 1100120249,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3360937899,
+        "itemHash": 3360937899,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2213885190,
+        "itemHash": 2213885190,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3222727236,
+        "itemHash": 3222727236,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 0
+      }
+    ],
+    "无誓": [
+      {
+        "hash": 355666671,
+        "itemHash": 355666671,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1303313141,
+        "itemHash": 1303313141,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3462679024,
+        "itemHash": 3462679024,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3374722294,
+        "itemHash": 3374722294,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 0
+      }
+    ],
+    "VS速度指挥": [
+      {
+        "hash": 283635613,
+        "itemHash": 283635613,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1762785663,
+        "itemHash": 1762785663,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2452936816,
+        "itemHash": 2452936816,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 31681654,
+        "itemHash": 31681654,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ],
+    "VS寒冷抑制": [
+      {
+        "hash": 2841763720,
+        "itemHash": 2841763720,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1762785662,
+        "itemHash": 1762785662,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2452936817,
+        "itemHash": 2452936817,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 1747058733,
+        "itemHash": 1747058733,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ],
+    "蒙恩": [
+      {
+        "hash": 1932686151,
+        "itemHash": 1932686151,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3381450498,
+        "itemHash": 3381450498,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2554513694,
+        "itemHash": 2554513694,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 784730508,
+        "itemHash": 784730508,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "第七炽天使SI-2": [
+      {
+        "hash": 3063618171,
+        "itemHash": 3063618171,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3937866388,
+        "itemHash": 3937866388,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 453798564,
+        "itemHash": 453798564,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 371466250,
+        "itemHash": 371466250,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "允诺": [
+      {
+        "hash": 2619826006,
+        "itemHash": 2619826006,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 3242168339,
+        "itemHash": 3242168339,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 355922321,
+        "itemHash": 355922321,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3218302023,
+        "itemHash": 3218302023,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2150859131,
+        "itemHash": 2150859131,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 0
+      }
+    ],
+    "笛卡尔坐标": [
+      {
+        "hash": 3077295678,
+        "itemHash": 3077295678,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2481881293,
+        "itemHash": 2481881293,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2502422772,
+        "itemHash": 2502422772,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3719824177,
+        "itemHash": 3719824177,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2800942445,
+        "itemHash": 2800942445,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      }
+    ],
+    "环形逻辑": [
+      {
+        "hash": 2849679066,
+        "itemHash": 2849679066,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2187717691,
+        "itemHash": 2187717691,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2528793321,
+        "itemHash": 2528793321,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3357864949,
+        "itemHash": 3357864949,
+        "tier": "None",
+        "type": "机枪",
+        "itemType": 0
+      }
+    ],
+    "固定低音": [
+      {
+        "hash": 2577847787,
+        "itemHash": 2577847787,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2573900604,
+        "itemHash": 2573900604,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2353274446,
+        "itemHash": 2353274446,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1668897788,
+        "itemHash": 1668897788,
+        "tier": "None",
+        "type": "霰弹枪",
+        "itemType": 0
+      }
+    ],
+    "难以逾越": [
+      {
+        "hash": 2576633469,
+        "itemHash": 2576633469,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 414045521,
+        "itemHash": 414045521,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2596736862,
+        "itemHash": 2596736862,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2250647628,
+        "itemHash": 2250647628,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "狼掌": [
+      {
+        "hash": 3092459232,
+        "itemHash": 3092459232,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 1280933460,
+        "itemHash": 1280933460,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1505862304,
+        "itemHash": 1505862304,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3489910822,
+        "itemHash": 3489910822,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3634548599,
+        "itemHash": 3634548599,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1510700139,
+        "itemHash": 1510700139,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      }
+    ],
+    "提娜莎精通": [
+      {
+        "hash": 105575659,
+        "itemHash": 105575659,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 480368036,
+        "itemHash": 480368036,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 683374858,
+        "itemHash": 683374858,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      },
+      {
+        "hash": 247984828,
+        "itemHash": 247984828,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 334851474,
+        "itemHash": 334851474,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "倾斜角度": [
+      {
+        "hash": 2266442,
+        "itemHash": 2266442,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2298039571,
+        "itemHash": 2298039571,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 782991879,
+        "itemHash": 782991879,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      },
+      {
+        "hash": 2201323795,
+        "itemHash": 2201323795,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 3
+      },
+      {
+        "hash": 2219120135,
+        "itemHash": 2219120135,
+        "tier": "None",
+        "type": "偃月",
+        "itemType": 0
+      }
+    ],
+    "闪耀": [
+      {
+        "hash": 3128885625,
+        "itemHash": 3128885625,
+        "tier": "None",
+        "type": "",
+        "itemType": 19
+      },
+      {
+        "hash": 2591257541,
+        "itemHash": 2591257541,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2398130369,
+        "itemHash": 2398130369,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 1207321710,
+        "itemHash": 1207321710,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2977214748,
+        "itemHash": 2977214748,
+        "tier": "None",
+        "type": "线性融合步枪",
+        "itemType": 0
+      }
+    ],
+    "机巧纬线": [
+      {
+        "hash": 4264096644,
+        "itemHash": 4264096644,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 219353066,
+        "itemHash": 219353066,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 4069880346,
+        "itemHash": 4069880346,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2071626744,
+        "itemHash": 2071626744,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 1572604081,
+        "itemHash": 1572604081,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3908639213,
+        "itemHash": 3908639213,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ],
+    "行动项目": [
+      {
+        "hash": 4242153505,
+        "itemHash": 4242153505,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3754785245,
+        "itemHash": 3754785245,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 20
+      },
+      {
+        "hash": 527989828,
+        "itemHash": 527989828,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1216293162,
+        "itemHash": 1216293162,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 437854391,
+        "itemHash": 437854391,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1107572779,
+        "itemHash": 1107572779,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 437854390,
+        "itemHash": 437854390,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3676820276,
+        "itemHash": 3676820276,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 437854389,
+        "itemHash": 437854389,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1801902577,
+        "itemHash": 1801902577,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 437854388,
+        "itemHash": 437854388,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 86525210,
+        "itemHash": 86525210,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 0
+      }
+    ],
+    "毒鲉": [
+      {
+        "hash": 893582322,
+        "itemHash": 893582322,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 20
+      },
+      {
+        "hash": 1676434816,
+        "itemHash": 1676434816,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 20
+      },
+      {
+        "hash": 1823308496,
+        "itemHash": 1823308496,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 3194298198,
+        "itemHash": 3194298198,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      },
+      {
+        "hash": 2765451291,
+        "itemHash": 2765451291,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 782108447,
+        "itemHash": 782108447,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      },
+      {
+        "hash": 2765451290,
+        "itemHash": 2765451290,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 2798906872,
+        "itemHash": 2798906872,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      },
+      {
+        "hash": 2765451289,
+        "itemHash": 2765451289,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 1486884069,
+        "itemHash": 1486884069,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      },
+      {
+        "hash": 2765451288,
+        "itemHash": 2765451288,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 3519247662,
+        "itemHash": 3519247662,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      }
+    ],
+    "庆典飞行": [
+      {
+        "hash": 703202729,
+        "itemHash": 703202729,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 3650837301,
+        "itemHash": 3650837301,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 20
+      },
+      {
+        "hash": 4019651319,
+        "itemHash": 4019651319,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 412682987,
+        "itemHash": 412682987,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 3977654524,
+        "itemHash": 3977654524,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3622281554,
+        "itemHash": 3622281554,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ],
+    "岁时之巅": [
+      {
+        "hash": 1163431805,
+        "itemHash": 1163431805,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 20
+      },
+      {
+        "hash": 1776851209,
+        "itemHash": 1776851209,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 20
+      },
+      {
+        "hash": 3293207827,
+        "itemHash": 3293207827,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2644193799,
+        "itemHash": 2644193799,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      },
+      {
+        "hash": 2965080304,
+        "itemHash": 2965080304,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3015877110,
+        "itemHash": 3015877110,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      }
+    ],
+    "突进": [
+      {
+        "hash": 2362471600,
+        "itemHash": 2362471600,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 358190158,
+        "itemHash": 358190158,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1554683388,
+        "itemHash": 1554683388,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "米达迷你": [
+      {
+        "hash": 3089417788,
+        "itemHash": 3089417788,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3946054154,
+        "itemHash": 3946054154,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3258167592,
+        "itemHash": 3258167592,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      }
+    ],
+    "时运无常": [
+      {
+        "hash": 4146702548,
+        "itemHash": 4146702548,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 609243450,
+        "itemHash": 609243450,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      },
+      {
+        "hash": 4146673634,
+        "itemHash": 4146673634,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 1216790576,
+        "itemHash": 1216790576,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ],
+    "门齿": [
+      {
+        "hash": 4248997900,
+        "itemHash": 4248997900,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1711056134,
+        "itemHash": 1711056134,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3415521860,
+        "itemHash": 3415521860,
+        "tier": "None",
+        "type": "追踪步枪",
+        "itemType": 0
+      }
+    ],
+    "重现记忆": [
+      {
+        "hash": 4049127142,
+        "itemHash": 4049127142,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 4213210148,
+        "itemHash": 4213210148,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "狮子鱼-4fr": [
+      {
+        "hash": 2423071981,
+        "itemHash": 2423071981,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1343087609,
+        "itemHash": 1343087609,
+        "tier": "None",
+        "type": "融合步枪",
+        "itemType": 0
+      }
+    ],
+    "经纬仪": [
+      {
+        "hash": 4146673635,
+        "itemHash": 4146673635,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2942510423,
+        "itemHash": 2942510423,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ],
+    "事故": [
+      {
+        "hash": 738446555,
+        "itemHash": 738446555,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 2291023199,
+        "itemHash": 2291023199,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "永存者": [
+      {
+        "hash": 3177074192,
+        "itemHash": 3177074192,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 3513355286,
+        "itemHash": 3513355286,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ],
+    "高阶暴君": [
+      {
+        "hash": 2873508409,
+        "itemHash": 2873508409,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1723581957,
+        "itemHash": 1723581957,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      }
+    ],
+    "伏打阴影": [
+      {
+        "hash": 71057630,
+        "itemHash": 71057630,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3591907532,
+        "itemHash": 3591907532,
+        "tier": "None",
+        "type": "斥候步枪",
+        "itemType": 0
+      }
+    ],
+    "阴谋淬砺": [
+      {
+        "hash": 4062069077,
+        "itemHash": 4062069077,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 454444817,
+        "itemHash": 454444817,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 0
+      }
+    ],
+    "阴沉利爪": [
+      {
+        "hash": 1085743380,
+        "itemHash": 1085743380,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 3
+      },
+      {
+        "hash": 2774013434,
+        "itemHash": 2774013434,
+        "tier": "None",
+        "type": "刀剑",
+        "itemType": 0
+      }
+    ],
+    "袖珍卫士": [
+      {
+        "hash": 2819552809,
+        "itemHash": 2819552809,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3046592693,
+        "itemHash": 3046592693,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      },
+      {
+        "hash": 2659286158,
+        "itemHash": 2659286158,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1373340092,
+        "itemHash": 1373340092,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "改装B-7手枪": [
+      {
+        "hash": 3146657388,
+        "itemHash": 3146657388,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 3
+      },
+      {
+        "hash": 780388162,
+        "itemHash": 780388162,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 0
+      },
+      {
+        "hash": 1872906663,
+        "itemHash": 1872906663,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 3
+      },
+      {
+        "hash": 1070950491,
+        "itemHash": 1070950491,
+        "tier": "None",
+        "type": "手炮",
+        "itemType": 0
+      }
+    ],
+    "无足雨燕": [
+      {
+        "hash": 877384,
+        "itemHash": 877384,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1733406046,
+        "itemHash": 1733406046,
+        "tier": "None",
+        "type": "脉冲步枪",
+        "itemType": 0
+      }
+    ],
+    "巴拉巴拉": [
+      {
+        "hash": 3421075982,
+        "itemHash": 3421075982,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 378750524,
+        "itemHash": 378750524,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 0
+      },
+      {
+        "hash": 690412397,
+        "itemHash": 690412397,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 3
+      },
+      {
+        "hash": 3759266681,
+        "itemHash": 3759266681,
+        "tier": "None",
+        "type": "狙击步枪",
+        "itemType": 0
+      }
+    ],
+    "傍晚SI4": [
+      {
+        "hash": 1763361847,
+        "itemHash": 1763361847,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1909563051,
+        "itemHash": 1909563051,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      },
+      {
+        "hash": 3618823368,
+        "itemHash": 3618823368,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 3
+      },
+      {
+        "hash": 1908458974,
+        "itemHash": 1908458974,
+        "tier": "None",
+        "type": "手枪",
+        "itemType": 0
+      }
+    ],
+    "奇特魅力": [
+      {
+        "hash": 3620277039,
+        "itemHash": 3620277039,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 3
+      },
+      {
+        "hash": 747264627,
+        "itemHash": 747264627,
+        "tier": "None",
+        "type": "微型冲锋枪",
+        "itemType": 0
+      }
+    ],
+    "铭纹-41": [
+      {
+        "hash": 1685533876,
+        "itemHash": 1685533876,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 3
+      },
+      {
+        "hash": 2394169626,
+        "itemHash": 2394169626,
+        "tier": "None",
+        "type": "榴弹发射器",
+        "itemType": 0
+      }
+    ]
+  },
+  "match_count": 137,
+  "csv_weapons_count": 187,
+  "unmatched": [
+    "Refusal of the Call",
+    "Indebted Kindness",
+    "M-17\"快嘴\"",
+    "Unwavering Duty",
+    "Fatebringer",
+    "Someday",
+    "The Riposte",
+    "Starscape Null",
+    "Pro Memoria",
+    "Theodolite",
+    "Finite Maybe",
+    "Admetus-D",
+    "Afterlight",
+    "The Call",
+    "Phoneutria Fera",
+    "Mirror Imago",
+    "Agape",
+    "Submersion",
+    "No Survivors",
+    "Last Thursday",
+    "Festival Flight",
+    "Lotus-Eater",
+    "Adamantite",
+    "Avalanche",
+    "Trachinus",
+    "Long Arm",
+    "Ill Omen",
+    "Praedyth's Revenge",
+    "Boomslang-4fr",
+    "红rix's Estoc",
+    "Vision of Confluence",
+    "Psychopomp",
+    "Yeartide Apex",
+    "Exalted Truth",
+    "MIDA Mini-Tool",
+    "Unvoiced",
+    "Accrued Redemption",
+    "Romantic Death",
+    "Terminus Horizon",
+    "Stars in Shadow",
+    "Solemn Remembrance",
+    "Corrective Measure",
+    "Outrageous Fortune",
+    "Aisha's Embrace",
+    "Aureus Neutralizer",
+    "Jurisprudent",
+    "Crowning Duologue",
+    "Relentless",
+    "Peacebond",
+    "Returned Memory"
+  ]
+}
